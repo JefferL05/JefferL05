@@ -1,4 +1,4 @@
-## Olá eu sou Jefferson Lopes, criador de conteúdo de investimentos e tecnologia!
+## Olá eu sou Jefferson!
 <div align="center">
   <a href="https://github.com/JefferL05">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefferL05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
