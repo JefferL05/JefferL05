@@ -1,21 +1,61 @@
-## Olá, eu sou Jefferson!
+<h1 align="center">🚀 Olá, eu sou Jefferson Vargas Lopes!</h1>
+<h3 align="center">Full Stack Developer | Game Developer | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://github.com/JefferL05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefferL05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
+  Desenvolvedor apaixonado por tecnologia, arquitetura escalável e criação de experiências digitais.
+  Sempre focado em performance, boas práticas e código limpo.
 </p>
 
-### Linguagens mais utilizadas:
+---
+
+## 📊 Estatísticas do GitHub
+
 <p align="center">
   <a href="https://github.com/JefferL05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefferL05&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JefferL05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JefferL05&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </p>
 
 ---
 
-### Tecnologias que eu uso:
+## 🔥 GitHub Streak (Dias consecutivos)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JefferL05&theme=dark&border_radius=5"/>
+</p>
+
+---
+
+## 📈 Gráfico de Contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JefferL05&theme=github-compact&bg_color=0d1117&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JefferL05/JefferL05/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🛡️ Perfil Profissional
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Game%20Developer-Unity-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-Specialist-61dafb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge"/>
+</p>
+
+---
+
+## 🛠️ Tecnologias que eu uso
+
 <p align="center">
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -30,7 +70,17 @@
 
 ---
 
-### Conecte-se comigo:
+## 💼 Sobre Mim
+
+Desenvolvedor focado em arquitetura limpa, escalabilidade e performance.  
+Experiência com aplicações modernas, integração de APIs REST, modelagem de banco de dados e desenvolvimento de jogos com Unity.
+
+Busco sempre escrever código reutilizável, bem estruturado e de fácil manutenção.
+
+---
+
+## 🌐 Conecte-se comigo
+
 <p align="center">
   <a href="https://www.youtube.com/channel/UCwnbruG8q-e73G3FUavE2xw" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
