@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Olá, eu sou Jefferson Vargas Lopes!</h1>
-<h3 align="center">Full Stack Developer | Game Developer | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Game Developer </h3>
 
 <p align="center">
   Desenvolvedor apaixonado por tecnologia, arquitetura escalável e criação de experiências digitais.
