@@ -8,6 +8,27 @@
 
 ---
 
+## Projetos e estudos
+
+### Projetos em destaque
+
+| Projeto | Descrição |
+| --- | --- |
+| [Fany Cosméticos](https://github.com/JefferL05/Fanny-Cosmeticos) | Aplicação web com Next.js e TypeScript. |
+| [Projeto Finanças](https://github.com/JefferL05/Projeto-financas) | Gestão financeira pessoal com recursos offline. |
+| [Console do Jeff](https://github.com/JefferL05/console-do-jeff) | Blog técnico desenvolvido com Astro. |
+
+### Explore meus repositórios
+
+- [Projetos principais](https://github.com/JefferL05?tab=repositories&q=topic%3Aprojeto-principal)
+- [Estudos e exercícios](https://github.com/JefferL05?tab=repositories&q=topic%3Aestudos)
+- [Jogos](https://github.com/JefferL05?tab=repositories&q=topic%3Ajogos)
+- [Protótipos](https://github.com/JefferL05?tab=repositories&q=topic%3Aprototipos)
+- [Projetos em planejamento](https://github.com/JefferL05?tab=repositories&q=topic%3Aem-planejamento)
+- [Referências e forks](https://github.com/JefferL05?tab=repositories&q=topic%3Areferencias)
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
