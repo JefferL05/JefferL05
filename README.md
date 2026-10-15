@@ -14,7 +14,7 @@
 
 | Projeto | Descrição |
 | --- | --- |
-| [Fany Cosméticos](https://github.com/JefferL05/Fanny-Cosmeticos) | Aplicação web com Next.js e TypeScript. |
+| [Fany Cosméticos](https://github.com/JefferL05/Fany-Cosmeticos) | Aplicação web com Next.js e TypeScript. |
 | [Projeto Finanças](https://github.com/JefferL05/Projeto-financas) | Gestão financeira pessoal com recursos offline. |
 | [Console do Jeff](https://github.com/JefferL05/console-do-jeff) | Blog técnico desenvolvido com Astro. |
 
